@@ -1,0 +1,20 @@
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\Simple Hangman.exe
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\Simple Hangman.deps.json
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\Simple Hangman.runtimeconfig.json
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\Simple Hangman.dll
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\Simple Hangman.pdb
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\PcgRandom.dll
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.AssemblyInfoInputs.cache
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.AssemblyInfo.cs
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.csproj.CopyComplete
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.dll
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\refint\Simple Hangman.dll
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.pdb
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\Simple Hangman.genruntimeconfig.cache
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\obj\Debug\net7.0\ref\Simple Hangman.dll
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\Fare.dll
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\RandomDataGenerator.dll
+C:\Users\JayC\source\repos\Simple Hangman\Simple Hangman\bin\Debug\net7.0\Stef.Validation.dll

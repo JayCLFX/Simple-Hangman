@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGdUnwUrG2fKpw7OVJAXsU8/WzGLf31BNfl7Rr+dSp6dq1j1LZNHV7hl0nohPgGh4L6s2+aVaBZ3RQrAGmkbgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JayC\\source\\repos\\Simple Hangman\\Simple Hangman\\Simple Hangman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JayC\\.nuget\\packages\\fare\\2.2.0\\fare.2.2.0.nupkg.sha512",
+    "C:\\Users\\JayC\\.nuget\\packages\\pcgrandom\\1.2.0\\pcgrandom.1.2.0.nupkg.sha512",
+    "C:\\Users\\JayC\\.nuget\\packages\\randomdatagenerator.net\\1.0.17\\randomdatagenerator.net.1.0.17.nupkg.sha512",
+    "C:\\Users\\JayC\\.nuget\\packages\\stef.validation\\0.1.0\\stef.validation.0.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
